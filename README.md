@@ -11,6 +11,8 @@
 
 5. Use Tomcat 9.0 to establish the server.
 
-6. Use Trigger to enforce the constraints.
+6. Enable Insertion, Update, Delete functionality for data on Web interface.
+
+7. Use Trigger to enforce the constraints among data entities.
 ![Snip20220611_9](https://user-images.githubusercontent.com/49352811/173217271-a247659a-4caf-4804-b2de-fc53bf54cd5b.png)
 ![Snip20220611_25](https://user-images.githubusercontent.com/49352811/173219645-1e6c970a-9242-4038-9784-5734c0a95305.png)
