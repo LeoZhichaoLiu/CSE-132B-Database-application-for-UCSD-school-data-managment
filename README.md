@@ -14,5 +14,8 @@
 6. Enable Insertion, Update, Delete functionality for data on Web interface.
 
 7. Use Trigger to enforce the constraints among data entities.
+8. Having query report to better display and handle the storing data, including schedule managment system for student and profssor, degree remaining view system, class roster system, class's grade distribution system, grade report for each student, and professor's grade distribution system.
+
+
 ![Snip20220611_9](https://user-images.githubusercontent.com/49352811/173217271-a247659a-4caf-4804-b2de-fc53bf54cd5b.png)
 ![Snip20220611_25](https://user-images.githubusercontent.com/49352811/173219645-1e6c970a-9242-4038-9784-5734c0a95305.png)
